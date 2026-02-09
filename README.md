@@ -8,7 +8,7 @@
 ## 🚀 Overview
 
 **AI.CodeReviewer** is a futuristic, no-login web tool designed for developers who need instant code correction.  
-Forget traditional chat interfaces — this is a **Chenzi-style command center**.
+Forget traditional chat interfaces — this is a **GenZ-style command center**.
 
 Simply drop your file or paste your broken code, toggle your preferences, and watch the AI reconstruct it in milliseconds.
 
@@ -19,7 +19,7 @@ Simply drop your file or paste your broken code, toggle your preferences, and wa
 - ⚡ **Blazing Fast**  
   Powered by **Groq Llama 3.3** for instant results.
 
-- 🎨 **Chenzi UI**  
+- 🎨 **GenZ UI**  
   A unique, dark-mode, neon-glassmorphism-inspired interface.
 
 - 🛠️ **Auto-Fix**  
@@ -44,7 +44,7 @@ Simply drop your file or paste your broken code, toggle your preferences, and wa
 
 - **Backend:** Python (Flask)  
 - **AI Engine:** Groq API (Llama-3.3-70b-versatile)  
-- **Frontend:** HTML5, CSS3 (Custom Chenzi Design), Vanilla JavaScript  
+- **Frontend:** HTML5, CSS3 (Custom GenZ Design), Vanilla JavaScript  
 - **Styling:** Custom CSS Variables + Glassmorphism
 
 ---
